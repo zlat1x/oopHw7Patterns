@@ -1,0 +1,15 @@
+D:\uni\oop\hw7\task3\MediatorHw\bin\Debug\net9.0\MediatorHw.exe
+D:\uni\oop\hw7\task3\MediatorHw\bin\Debug\net9.0\MediatorHw.deps.json
+D:\uni\oop\hw7\task3\MediatorHw\bin\Debug\net9.0\MediatorHw.runtimeconfig.json
+D:\uni\oop\hw7\task3\MediatorHw\bin\Debug\net9.0\MediatorHw.dll
+D:\uni\oop\hw7\task3\MediatorHw\bin\Debug\net9.0\MediatorHw.pdb
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.AssemblyInfoInputs.cache
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.AssemblyInfo.cs
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.sourcelink.json
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.dll
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\refint\MediatorHw.dll
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.pdb
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\MediatorHw.genruntimeconfig.cache
+D:\uni\oop\hw7\task3\MediatorHw\obj\Debug\net9.0\ref\MediatorHw.dll
