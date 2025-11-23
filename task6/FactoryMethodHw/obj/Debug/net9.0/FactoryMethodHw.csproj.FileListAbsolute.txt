@@ -1,0 +1,15 @@
+D:\uni\oop\hw7\task6\FactoryMethodHw\bin\Debug\net9.0\FactoryMethodHw.exe
+D:\uni\oop\hw7\task6\FactoryMethodHw\bin\Debug\net9.0\FactoryMethodHw.deps.json
+D:\uni\oop\hw7\task6\FactoryMethodHw\bin\Debug\net9.0\FactoryMethodHw.runtimeconfig.json
+D:\uni\oop\hw7\task6\FactoryMethodHw\bin\Debug\net9.0\FactoryMethodHw.dll
+D:\uni\oop\hw7\task6\FactoryMethodHw\bin\Debug\net9.0\FactoryMethodHw.pdb
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.AssemblyInfoInputs.cache
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.AssemblyInfo.cs
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.sourcelink.json
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.dll
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\refint\FactoryMethodHw.dll
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.pdb
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\FactoryMethodHw.genruntimeconfig.cache
+D:\uni\oop\hw7\task6\FactoryMethodHw\obj\Debug\net9.0\ref\FactoryMethodHw.dll
