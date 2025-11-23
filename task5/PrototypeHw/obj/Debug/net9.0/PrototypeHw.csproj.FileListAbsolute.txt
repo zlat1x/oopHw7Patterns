@@ -1,0 +1,15 @@
+D:\uni\oop\hw7\task5\PrototypeHw\bin\Debug\net9.0\PrototypeHw.exe
+D:\uni\oop\hw7\task5\PrototypeHw\bin\Debug\net9.0\PrototypeHw.deps.json
+D:\uni\oop\hw7\task5\PrototypeHw\bin\Debug\net9.0\PrototypeHw.runtimeconfig.json
+D:\uni\oop\hw7\task5\PrototypeHw\bin\Debug\net9.0\PrototypeHw.dll
+D:\uni\oop\hw7\task5\PrototypeHw\bin\Debug\net9.0\PrototypeHw.pdb
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.AssemblyInfoInputs.cache
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.AssemblyInfo.cs
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.sourcelink.json
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.dll
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\refint\PrototypeHw.dll
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.pdb
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\PrototypeHw.genruntimeconfig.cache
+D:\uni\oop\hw7\task5\PrototypeHw\obj\Debug\net9.0\ref\PrototypeHw.dll
