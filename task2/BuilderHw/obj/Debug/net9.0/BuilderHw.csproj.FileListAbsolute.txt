@@ -1,0 +1,15 @@
+D:\uni\oop\hw7\task2\BuilderHw\bin\Debug\net9.0\BuilderHw.exe
+D:\uni\oop\hw7\task2\BuilderHw\bin\Debug\net9.0\BuilderHw.deps.json
+D:\uni\oop\hw7\task2\BuilderHw\bin\Debug\net9.0\BuilderHw.runtimeconfig.json
+D:\uni\oop\hw7\task2\BuilderHw\bin\Debug\net9.0\BuilderHw.dll
+D:\uni\oop\hw7\task2\BuilderHw\bin\Debug\net9.0\BuilderHw.pdb
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.AssemblyInfoInputs.cache
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.AssemblyInfo.cs
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.sourcelink.json
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.dll
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\refint\BuilderHw.dll
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.pdb
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\BuilderHw.genruntimeconfig.cache
+D:\uni\oop\hw7\task2\BuilderHw\obj\Debug\net9.0\ref\BuilderHw.dll
