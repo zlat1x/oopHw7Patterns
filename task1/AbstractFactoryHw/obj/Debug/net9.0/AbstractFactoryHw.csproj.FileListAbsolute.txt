@@ -1,0 +1,14 @@
+D:\uni\oop\hw7\task1\AbstractFactoryHw\bin\Debug\net9.0\AbstractFactoryHw.exe
+D:\uni\oop\hw7\task1\AbstractFactoryHw\bin\Debug\net9.0\AbstractFactoryHw.deps.json
+D:\uni\oop\hw7\task1\AbstractFactoryHw\bin\Debug\net9.0\AbstractFactoryHw.runtimeconfig.json
+D:\uni\oop\hw7\task1\AbstractFactoryHw\bin\Debug\net9.0\AbstractFactoryHw.dll
+D:\uni\oop\hw7\task1\AbstractFactoryHw\bin\Debug\net9.0\AbstractFactoryHw.pdb
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\AbstractFactoryHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\AbstractFactoryHw.AssemblyInfoInputs.cache
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\AbstractFactoryHw.AssemblyInfo.cs
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\AbstractFactoryHw.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\AbstractFactoryHw.dll
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\refint\AbstractFactoryHw.dll
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\AbstractFactoryHw.pdb
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\AbstractFactoryHw.genruntimeconfig.cache
+D:\uni\oop\hw7\task1\AbstractFactoryHw\obj\Debug\net9.0\ref\AbstractFactoryHw.dll

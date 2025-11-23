@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AbstractFactoryHw/1.0.0": {
+        "runtime": {
+          "AbstractFactoryHw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryHw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
