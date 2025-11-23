@@ -1,0 +1,15 @@
+D:\uni\oop\hw7\task6\FacadeHw\bin\Debug\net9.0\FacadeHw.exe
+D:\uni\oop\hw7\task6\FacadeHw\bin\Debug\net9.0\FacadeHw.deps.json
+D:\uni\oop\hw7\task6\FacadeHw\bin\Debug\net9.0\FacadeHw.runtimeconfig.json
+D:\uni\oop\hw7\task6\FacadeHw\bin\Debug\net9.0\FacadeHw.dll
+D:\uni\oop\hw7\task6\FacadeHw\bin\Debug\net9.0\FacadeHw.pdb
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.AssemblyInfoInputs.cache
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.AssemblyInfo.cs
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.sourcelink.json
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.dll
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\refint\FacadeHw.dll
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.pdb
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\FacadeHw.genruntimeconfig.cache
+D:\uni\oop\hw7\task6\FacadeHw\obj\Debug\net9.0\ref\FacadeHw.dll
