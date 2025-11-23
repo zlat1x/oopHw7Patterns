@@ -1,0 +1,15 @@
+D:\uni\oop\hw7\task4\DecoratorHw\bin\Debug\net9.0\DecoratorHw.exe
+D:\uni\oop\hw7\task4\DecoratorHw\bin\Debug\net9.0\DecoratorHw.deps.json
+D:\uni\oop\hw7\task4\DecoratorHw\bin\Debug\net9.0\DecoratorHw.runtimeconfig.json
+D:\uni\oop\hw7\task4\DecoratorHw\bin\Debug\net9.0\DecoratorHw.dll
+D:\uni\oop\hw7\task4\DecoratorHw\bin\Debug\net9.0\DecoratorHw.pdb
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.AssemblyInfoInputs.cache
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.AssemblyInfo.cs
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.csproj.CoreCompileInputs.cache
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.sourcelink.json
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.dll
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\refint\DecoratorHw.dll
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.pdb
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\DecoratorHw.genruntimeconfig.cache
+D:\uni\oop\hw7\task4\DecoratorHw\obj\Debug\net9.0\ref\DecoratorHw.dll
